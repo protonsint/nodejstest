@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-test",
+  "version": "0.0.1",
+  "description": "Node.js test app for OpenShift 3",
+  "main": "server.js",
+  "dependencies": {
+      "express": "*",
+      "ejs": "*"
+  },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jim Rigsbee <jrigsbee@redhat.com>",
+  "license": "",
+}
