@@ -15,5 +15,5 @@
     "start": "node server.js"
   },
   "author": "Jim Rigsbee <jrigsbee@redhat.com>",
-  "license": "",
+  "license": ""
 }
