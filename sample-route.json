@@ -1,0 +1,14 @@
+
+{
+  "kind": "Route",
+  "apiVersion": "v1",
+  "metadata": {
+    "name": "test-route"
+  },
+  "spec": {
+    "host": "test.cloudapps.example.com",
+    "to": {
+      "name": "test"
+    }
+  }
+}
