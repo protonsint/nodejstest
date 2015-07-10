@@ -6,7 +6,7 @@ To create app in openshift console.
 
 1. Select the project, such as "demo".
 2. Click the "Create" button.
-3. Enter the location of the source in Git, e.g. http://hawaii.local/test.git
+3. Enter the location of the source in Git, e.g. https://github.com/jimrigsbee/nodejstest.git 
 4. Click "Next".
 5. Adjust the name if needed.
 6. Uncheck "create a route to the application" - we will create route as a secondary step. OPTIONAL if you have your subdomain setup correctly you can let it create the route
